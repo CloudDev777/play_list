@@ -23,7 +23,7 @@ Next-Spotify v2 is out in this [repository](https://github.com/ankitk26/Next-Spo
 - [API Reference](#api)
 - [Screenshots](#screenshots)
 - [Resources](#resources)
-
+    
 
 <section id="technologies" />
 
